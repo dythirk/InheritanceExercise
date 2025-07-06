@@ -11,5 +11,12 @@ namespace Inheritance
         public string Name { get; set; }
         public string Size { get; set; }
         public int NumberOfLegs { get; set; }
+        public bool IsCarnivore { get; set; }
+        public string MakesSound { get; set; }
+
+        public void SetName (string name)
+        {
+            Name = name;
+        }
     }
 }
