@@ -6,6 +6,7 @@ namespace Inheritance
     {
         static void Main(string[] args)
         {
+
             // TODO Be sure to follow best practice when creating your classes
 
             // Create a class Animal
